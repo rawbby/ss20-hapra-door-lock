@@ -1,0 +1,25 @@
+NET "Clock" LOC = T9;
+
+NET "Buttons[0]" LOC = M13;
+NET "Buttons[1]" LOC = M14;
+NET "Buttons[2]" LOC = L13;
+NET "Buttons[3]" LOC = L14;
+
+NET "Switches[0]" LOC = F12;
+NET "Switches[1]" LOC = G12;
+NET "Switches[2]" LOC = H14;
+NET "Switches[3]" LOC = H13;
+NET "Switches[4]" LOC = J14;
+NET "Switches[5]" LOC = J13;
+NET "Switches[6]" LOC = K14;
+NET "Switches[7]" LOC = K13;
+
+NET "LedsExt[0]" LOC = E6;
+NET "LedsExt[1]" LOC = C5;
+NET "LedsExt[2]" LOC = C6;
+NET "LedsExt[3]" LOC = C7;
+
+NET "Leds[0]" LOC = K12;
+NET "Leds[1]" LOC = P14;
+NET "Leds[2]" LOC = L12;
+NET "Leds[3]" LOC = N14;
